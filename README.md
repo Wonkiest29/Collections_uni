@@ -63,21 +63,3 @@ The program will:
 2. Execute all 4 tasks sequentially
 3. Display results for each task with clear formatting
 
-## Key Learning Points
-
-- **ArrayList**: Dynamic array, allows duplicates, maintains insertion order
-- **HashSet**: No duplicates, no guaranteed order, fast `contains()` checks
-- **TreeSet**: No duplicates, automatically sorted, slower than HashSet
-- **Collections.sort()**: Manual sorting with duplicates preserved
-- **Try-with-resources**: Automatic resource management for file I/O
-- **Iterator**: Manual traversal of collections
-
-## Requirements
-
-- Java 11 or higher
-- Gradle (wrapper included)
-
-## Author
-
-Created as part of Akademia Finansów i Biznesu Vistula coursework
-
